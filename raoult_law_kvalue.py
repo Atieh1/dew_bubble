@@ -50,7 +50,7 @@ if __name__ == '__main__':
     # We should update this example! Units of test not consistent with NIST
 
     propane = [4.53678, 1149.36, 24.906] #These are for temperatures between 277.6 - 360.8 K
-    benzene = [6.90565, 1211.033, 220.79 ]
+    benzene = [4.72583, 1660.652, -1.461]
 
   
     antoineCoefs = np.array( [propane, benzene] )
